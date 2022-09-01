@@ -1,0 +1,25 @@
+.item-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size:12px;
+    padding: 20px 15px 10px 30px;
+}
+
+.item-subtitle{
+    font-family: 'Poppins',sans-serif;
+    font-size:14px;
+
+}
+.heading-side{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-item:hover .item-subtitle{
+    color: rgb(14 165 233);
+    
+}
+
+.container-item:hover .icon-subtitle{
+    color: rgb(14 165 233);
+    
+}
+
